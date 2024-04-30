@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Logic_Coverage/static/css/main.b1a2b27a.css",
-    "main.js": "/Logic_Coverage/static/js/main.46880c4c.js",
-    "static/js/453.ea26b954.chunk.js": "/Logic_Coverage/static/js/453.ea26b954.chunk.js",
-    "index.html": "/Logic_Coverage/index.html",
-    "main.b1a2b27a.css.map": "/Logic_Coverage/static/css/main.b1a2b27a.css.map",
-    "main.46880c4c.js.map": "/Logic_Coverage/static/js/main.46880c4c.js.map",
-    "453.ea26b954.chunk.js.map": "/Logic_Coverage/static/js/453.ea26b954.chunk.js.map"
+    "main.css": "/Logic_Coverage_Sample/static/css/main.b1a2b27a.css",
+    "main.js": "/Logic_Coverage_Sample/static/js/main.c031b909.js",
+    "static/js/453.ea26b954.chunk.js": "/Logic_Coverage_Sample/static/js/453.ea26b954.chunk.js",
+    "index.html": "/Logic_Coverage_Sample/index.html",
+    "main.b1a2b27a.css.map": "/Logic_Coverage_Sample/static/css/main.b1a2b27a.css.map",
+    "main.c031b909.js.map": "/Logic_Coverage_Sample/static/js/main.c031b909.js.map",
+    "453.ea26b954.chunk.js.map": "/Logic_Coverage_Sample/static/js/453.ea26b954.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b1a2b27a.css",
-    "static/js/main.46880c4c.js"
+    "static/js/main.c031b909.js"
   ]
 }
